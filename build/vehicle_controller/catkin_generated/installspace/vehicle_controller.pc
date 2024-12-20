@@ -1,0 +1,8 @@
+prefix=/home/viplab/hd/hd_ws/install
+
+Name: vehicle_controller
+Description: Description of vehicle_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: morai_msgs geometry_msgs rospy std_msgs

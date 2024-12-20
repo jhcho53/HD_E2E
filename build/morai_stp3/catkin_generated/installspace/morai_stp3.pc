@@ -1,0 +1,8 @@
+prefix=/home/viplab/hd/hd_ws/install
+
+Name: morai_stp3
+Description: Description of morai_stp3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

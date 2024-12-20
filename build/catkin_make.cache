@@ -1,0 +1,2 @@
+global_path_demo:morai_msgs:morai_stp3:vehicle_controller
+-DCATKIN_DEVEL_PREFIX=/home/viplab/hd/hd_ws/devel -DCMAKE_INSTALL_PREFIX=/home/viplab/hd/hd_ws/install -G Unix Makefiles

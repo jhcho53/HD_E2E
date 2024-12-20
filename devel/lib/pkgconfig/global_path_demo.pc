@@ -1,0 +1,8 @@
+prefix=/home/viplab/hd/hd_ws/devel
+
+Name: global_path_demo
+Description: Description of global_path_demo
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
